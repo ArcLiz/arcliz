@@ -1,4 +1,8 @@
-### Hi there 👋
+
+![Header](header.png)
+#
+<p align="center">I am currently enrolled in Code Institute's Full Stack Software Developer Programme where I am learning<br>HTML, CSS, JavaScript, Python and so much more. One day I will get around to introducing myself better, <br>but for now, I'll just say hi and hope you send me a follow. Cheerios!<br>👋</p>
+
 
 <!--
 **ArcLiz/arcliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
